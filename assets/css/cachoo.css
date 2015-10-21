@@ -1,0 +1,232 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #1e1e1e;
+}
+
+#home {
+    background-image: url(../img/portfolio_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    opacity: 0.85;
+    top: 0;
+    padding-top: 25px;
+}
+
+nav {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.name {
+    color: white;
+    font-size: 3vw;
+    font-family: century gothic, helvetica, sans-serif;
+    list-style-type: none;
+    float: left;
+    padding-left: 50px;
+}
+
+.page {
+    color: white;
+    font-size: 1.8vw;
+    font-family: century gothic, helvetica, sans-serif;
+    list-style-type: none;
+    float: right;
+    padding-right: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+p {
+    color: white;
+    font-family: century gothic, helvetica, sans-serif;
+}
+
+.space {
+    padding-bottom: 100px;
+}
+
+.block {
+    width: 100%;
+}
+
+#section1 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #404040;
+}
+
+#section2 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #1e1e1e;
+}
+
+#section3 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #404040;
+}
+
+#section4 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #1e1e1e;
+}
+
+#section5 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #404040;
+}
+
+#section6 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #1e1e1e;
+}
+
+#section7 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #404040;
+}
+
+#section8 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #1e1e1e;
+}
+
+#section9 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #404040;
+}
+
+#section10 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #1e1e1e;
+}
+
+#section11 {
+    width: 100%;
+    padding-bottom: 50px;
+    background-color: #404040;
+}
+
+.pic {
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 100px;
+}
+
+.sidesec {
+    width: 60%;
+    float: right;
+}
+
+.left {
+    width: 50%;
+    color: white;
+    float: right;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 1vw;
+    font-family: century gothic, helvetica, sans-serif;
+}
+
+.right {
+    width: 40%;
+    color: white;
+    float: right;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 1vw;
+    font-family: century gothic, helvetica, sans-serif;
+}
+
+#bio {
+    width: 50%;
+    float: left;
+    padding-left: 25px;
+    background-color: black;
+    opacity: 0.85;
+}
+
+#bio_ {
+    background-image: url(../img/bg.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bio-out {
+    padding-top: 12%;
+}
+
+#contact {
+    width: 50%;
+    float: left;
+    margin: 0 auto;
+    padding-top: 12%;
+}
+
+#social {
+    width: 50%;
+    float: right;
+    margin: 0 auto;
+    padding-top: 12%;
+}
+
+.biotxt {
+    text-align: center;
+    font-size: 2vw;
+}
+
+.button {
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
